@@ -1,2 +1,6 @@
 hello everyone
 i am from innomatics research labs learning data science course
+
+hi am from banglore
+ive fixed the code by adding two lines.
+
